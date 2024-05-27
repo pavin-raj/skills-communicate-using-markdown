@@ -29,3 +29,7 @@ echo "Malcolm, wise words for your coding journey today: " . $random_fortune;
 ?>
 
 ```
+
+- [x] Visit England
+- [x] Buy flowers
+- [ ] Give flowers to my lover 
